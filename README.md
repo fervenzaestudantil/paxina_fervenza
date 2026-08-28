@@ -1,2 +1,1 @@
-# paxina-web-sindicato
-Este repositorio funciona como servidor para a páxina web do sindicato estudantil Fervenza. 
+Repositorio con todos os arquivos da páxina web que estou a facer para o sindicato Fervenza. É o meu segundo proxecto de deseño web. 
